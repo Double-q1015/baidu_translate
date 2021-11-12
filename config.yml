@@ -1,0 +1,5 @@
+baidu:
+  appid: 20210521000836705 # appid
+  secret_key: ZByFG2HMCCWS0kBCGrJZ # 个人密钥
+  from_lang: auto # 原文语种 自动识别
+  to_lang: zh # 译文语种
